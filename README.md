@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 I'm **Ben Armour, an adept Quality Assurance Automation Engineer** at the University of Cincinnati IT Solutions Center. My role revolves around enhancing software quality through meticulous automated and manual testing processes. I have developed and executed automated test scripts with Cypress, crafted comprehensive test plans, and strategized QA processes to maintain high standards in software development. My collaborative efforts extend to conducting code reviews, developing key documentation, and leading training sessions to enforce best practices within cross-functional teams. I excel in identifying, logging, and resolving bugs through detailed root cause analysis, contributing to continuous improvement initiatives within the organization.
 
+### Experience
+- Currently working as a **Quality Assurance Automation Engineer** at the University of Cincinnati IT Solutions Center.
+- Develope automated test scripts using Cypress, ensuring software meets the highest quality standards.
+- Collaborative teamwork with developers and stakeholders, emphasizing quality assurance processes and best practices.
+
+### Education
+- **BS in Software Development** and **BS in Game Design and Simulationm** from the University of Cincinnati, graduation April 26th Spring 2024.
+
+### Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/ben-armour)
+
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
@@ -45,18 +56,6 @@ I'm **Ben Armour, an adept Quality Assurance Automation Engineer** at the Univer
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-
-
-### Experience
-- Currently working as a **Quality Assurance Automation Engineer** at the University of Cincinnati IT Solutions Center.
-- Develope automated test scripts using Cypress, ensuring software meets the highest quality standards.
-- Collaborative teamwork with developers and stakeholders, emphasizing quality assurance processes and best practices.
-
-### Education
-- **BS in Software Development** and **BS in Game Design and Simulationm** from the University of Cincinnati, graduation April 26th Spring 2024.
-
-### Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/ben-armour)
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0ST201&layout=compact&theme=onedark&langs_count=10&hide=html,css&card_height=28.8)](https://github.com/L0ST201/github-readme-stats)
