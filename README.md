@@ -59,5 +59,7 @@ I'm **Ben Armour, an adept Quality Assurance Automation Engineer** at the Univer
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/ben-armour)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0ST201&layout=compact&theme=dracula)](https://github.com/L0ST201/github-readme-stats)
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api/?username=L0ST201&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0ST201&layout=compact&theme=onedark&langs_count=10&hide=html,css&card_height=28.8)](https://github.com/L0ST201/github-readme-stats)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api/?username=L0ST201&show_icons=true&theme=onedark&line_height=28.8)
+
+
