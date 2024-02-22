@@ -26,7 +26,10 @@ I'm **Ben Armour, an adept Quality Assurance Automation Engineer** at the Univer
 - **BS in Software Development** and **BS in Game Design and Simulationm** from the University of Cincinnati, graduation April 26th Spring 2024.
 
 ### Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/ben-armour)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-armour)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:armourbl@mail.uc.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:BenArmour72@gmail.com)
+
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
